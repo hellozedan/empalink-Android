@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "857176640346",
+    "firebase_url": "https://synapsys-388ba.firebaseio.com",
+    "project_id": "synapsys-388ba",
+    "storage_bucket": "synapsys-388ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857176640346:android:983f9380af0f6536",
+        "android_client_info": {
+          "package_name": "com.empatica.empalinksample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857176640346-6a6s3m9u9hqih5jm27nghud639ak5kgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_amArWXiqAOMdpHsTQVkr62h2jN-YK9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
